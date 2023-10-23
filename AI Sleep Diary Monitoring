@@ -1,5 +1,5 @@
-# Project Name 
-Short description of project.
+# AI Sleep Diary Monitoring
+In this project, I will be using a Sleep Diary to track the amount of sleep I get each night for about 3 weeks. I want to use this diary to increase the amount of sleep I get each night. I will record this on a Microsoft Excel Sheet using a sleep diary template from the National Heart, Lung, and Blood Institute. I will provide ChatGPT with a qualitative summary of my week such my mood throughout the mood, to get tips for improvement. 
 
 Project Notes:
 
@@ -15,7 +15,7 @@ Project Notes:
 ## Project PI/Project Team 
 **Due October 26, 11:59pm**
 
-Name, Vandy email, VUNetID, Role
+Ralph Francois, ralph.e.francois@vanderbilt.edu , francore, PI
 
 ## Project Proposal 
 **Due October 26, 11:59pm**
@@ -23,7 +23,7 @@ Name, Vandy email, VUNetID, Role
 300-1000 words total across all of the sections below
 
 ### Description of Problem/Opportunity
-
+It is well known that most people should be getting at least eight hours of sleep a night, however, I regularly do not get this much sleep on weekdays. One weekend, I usually crash and sleep upwards of 11 hours due to the sleep debt I have accumulated throughout the week and this cycle repeats itself for weeks. It leaves me exhausted on some days and I am occasionally tired by evening on many days. It can also have a negative impact on my academic experience. Not getting enough sleep is associated with recalling less memory which extends the amount of time I spend studying weekly
 ### Proposed Solution/Approach
 
 ### Project Outline and Timeline
@@ -33,8 +33,9 @@ What are the steps to complete the project? State your milestones and the dates 
 **Due October 26, 11:59pm**
 
 Describe 1-5 goals of the project. 
-### Goal 1
-### Goal 2
+### Goal 1: Increase the amount of hours I sleep per night
+### Goal 2: Decrease day time sleepiness
+### Goal 3: Increase amount of times I exercise per week
 
 ## Project Metrics 
 **Due October 26, 11:59pm**
